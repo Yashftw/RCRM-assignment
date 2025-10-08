@@ -3,6 +3,6 @@ import react from 'react';
 
 export default function Page() {
   return (
-    <div>Test Page</div>
+    <div>Test </div>
   )
 }
